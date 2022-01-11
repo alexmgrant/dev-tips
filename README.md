@@ -13,6 +13,7 @@ A collection of Development tips &amp; tricks.
 ### Render props pattern
 
 [patterns.dev](https://www.patterns.dev/posts/render-props-pattern/)
+[codesandbox.io](https://codesandbox.io/s/react-typescript-forked-8g63p?file=/src/App.tsx)
 
 ```tsx
 // type for children function
